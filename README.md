@@ -5,4 +5,4 @@ jetson硬件平台解码代码
 
 调用InitDecode函数+DoDecodeProcess函数，即可实现从H264解码成rgb图像（参考test.cpp）
 
-代码暂时不方便公开，如有需要可以联系，私发
+代码暂时不方便公开，可以参考https://docs.nvidia.com/jetson/l4t-multimedia/l4t_mm_00_video_decode.html，本人也是从该代码修改而来
